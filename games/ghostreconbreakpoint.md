@@ -33,13 +33,17 @@ The game shows greater stability on framerate with Vulkan on a AMD GPU compared 
 9. Change the following config:
 
 WindowMode=1
+
 DisplayWidth=1920
+
 DisplayHeight=1080
 
 Put WindowMode in 1 for borderless mode
-DisplayWidth and DisplayHeight for the resolution you wanna play on, the game doesn't lets you change it in-game, so it should always be change here.
+DisplayWidth and DisplayHeight for the resolution you wanna play on, the game doesn't lets you change it in-game, so it should always be changed here.
 
 10. Save the file and run the game.
     
 # Screenshots
-<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904215724_1.jpg">
+<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904211610_1.jpg">
+<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904211906_1.jpg">
+<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904212057_1.jpg">
