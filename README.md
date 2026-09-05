@@ -19,5 +19,5 @@ On each game page, you will find a guide to make the game run, screenshots showi
 
 # Games list
 Use Ctrl + F to search for the game you want, if it's not here, then I haven't played or managed to make that game run yet.
-- <img src="https://cdn2.steamgriddb.com/icon_thumb/eafd47a145d67a244ac72fa0617c3224.png" width="20" height="20"> [Deadlock](guides/deadlock.md)
-- <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](guides/ghostreconbreakpoint.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/eafd47a145d67a244ac72fa0617c3224.png" width="20" height="20"> [Deadlock](games/deadlock.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
