@@ -44,6 +44,6 @@ DisplayWidth and DisplayHeight for the resolution you wanna play on, the game do
 10. Save the file and run the game.
     
 # Screenshots
-<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904211610_1.jpg">
-<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904211906_1.jpg">
-<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904212057_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904211610_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904211906_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904212057_1.jpg">
