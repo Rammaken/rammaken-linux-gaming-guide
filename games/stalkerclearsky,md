@@ -1,0 +1,23 @@
+# <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="32" height="32"> Deadlock
+- ✏️ Last modification: 5/9/2026
+- 💿 Platform: Pirated / GOG DRM Free (as a Non-Steam game)
+- 🛠️ Method: Proton
+
+# Overview
+S.T.A.L.K.E.R.: Clear Sky officially doesn't have a native port but there are some X-Ray Engine forks with full fledged Linux ports, in this guide I'll explain how to run the Windows version through Proton.
+
+# Guide
+1. Add xrEngine.exe as a non-Steam game on Steam, open properties of the game and set the following launch parameters: 
+`PROTON_ENABLE_WAYLAND=1 -fsltx ../fsgame.ltx`
+
+| Command | Function explained |
+| ------------ | ------------ 
+| PROTON_ENABLE_WAYLAND=1 | Evades issues with Wayland compositors | 
+| -fsltx ../fsgame.ltx | Fixes the "Cannot open "fsgame.ltx" crash when launching. | 
+
+2. In properties menu, go to Compatibility and force Proton 11.0-2.
+
+If the game opens in fullscreen but with a lower resolution than your native, don't worry, if -W and -H commands are present, you should be able to change the resolution in-game without any issues.
+
+# Screenshots
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904215724_1.jpg">
