@@ -1,7 +1,7 @@
 # <img src="https://cdn2.steamgriddb.com/icon_thumb/22de0bf85202126667cb67ede1da08b7.png" width="32" height="32"> Roblox
 - ✏️ Last modification: 5/9/2026
-- 💿 Platform: Sober
-- 🛠️ Method: Proton
+- 💿 Platform: Package
+- 🛠️ Method: Sober
 
 # Overview
 Roblox is officially unsupported in Linux through regular executions like WINE/Proton so the community created an alternative.
