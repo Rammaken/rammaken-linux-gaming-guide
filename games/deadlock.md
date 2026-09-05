@@ -28,4 +28,4 @@ The game shows greater stability on framerate with Vulkan on a AMD GPU compared 
 If the game opens in fullscreen but with a lower resolution than your native, don't worry, if -W and -H commands are present, you should be able to change the resolution in-game without any issues.
 
 # Screenshots
-<img src="https://github.com/Rammaken/rammaken-linux-gaming-guide/blob/main/screenshots/20260904215724_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904215724_1.jpg">
