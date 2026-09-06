@@ -20,6 +20,7 @@ On each game page, you will find a guide to make the game run, screenshots showi
 # Games list
 Use Ctrl + F to search for the game you want, if it's not here, then I haven't played or managed to make that game run yet.
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/eafd47a145d67a244ac72fa0617c3224.png" width="20" height="20"> [Deadlock](games/deadlock.md)
+- <img src="https://cdn2.steamgriddb.com/icon/723c26b3460897d11db04474db0e0501/32/256x256.png" width="20" height="20"> [Deus Ex: Mankind Divided](games/deusexmankinddivided.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
 - <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Clear Sky](games/stalkerclearsky.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/30999ce1f0a35aeff9a456e4487f9924.png" width="20" height="20"> [Project Zomboid](games/projectzomboid.md)
