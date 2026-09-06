@@ -54,4 +54,5 @@ Open `user.ltx` with a text editor, search and change the following line:
 Change 1920x1080 for your resolution, save the file and run your game to check if it works
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260904215724_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260905200603_1.jpg">
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/screenshots/20260905200825_1.jpg">
