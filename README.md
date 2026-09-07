@@ -5,6 +5,8 @@ I'll update this list over time with information on the process I followed and c
 
 On each game page, you will find a guide to make the game run, screenshots showing proof and some tips or technical info about it.
 
+I'm aware that the solutions offered on this guide may not 100% work for everybody because every distro is personalized but this may help you on getting closer to the answer you are searching for.
+
 **My hardware info:**
 - Intel Xeon E5-2630 v4 (10 cores, 20 threads)
 - 16 GBs RAM DDR4
