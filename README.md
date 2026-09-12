@@ -23,6 +23,7 @@ I'm aware that the solutions offered on this guide may not 100% work for everybo
 Use Ctrl + F to search for the game you want, if it's not here, then I haven't played or managed to make that game run yet.
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/eafd47a145d67a244ac72fa0617c3224.png" width="20" height="20"> [Deadlock](games/deadlock.md)
 - <img src="https://cdn2.steamgriddb.com/icon/723c26b3460897d11db04474db0e0501/32/256x256.png" width="20" height="20"> [Deus Ex: Mankind Divided](games/deusexmankinddivided.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/9b04d152845ec0a378394003c96da594.png" width="20" height="20"> [Counter-Strike](games/counterstrike.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
 - <img src="https://cdn2.steamgriddb.com/icon/713fd63d76c8a57b16fc433fb4ae718a/32/1024x1024.png" width="20" height="20"> [Ghost of Tsushima](games/ghostoftsushima.md)
 - <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Clear Sky](games/stalkerclearsky.md)
