@@ -1,4 +1,6 @@
-# Rammaken's Linux Gaming Guide
+<p align="center"><img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/ramlinux_icon.webp" width="128" height="128"></p>
+
+# <p align="center">Rammaken's Linux Gaming Guide</p>
 Welcome to my personal guide for Linux gaming, I write down fixes and workarounds for specific games that I figured out based on my tinkering experience so you don't have to.
 
 I'll update this list over time with information on the process I followed and confirmed that makes the games run on Linux.
@@ -18,6 +20,8 @@ I'm aware that the solutions offered on this guide may not 100% work for everybo
 **My distro info:**
 - CachyOS (Arch-based)
 - Hyprland (Wayland)
+
+<img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/fastfetch.png">
 
 # Games list
 Use Ctrl + F to search for the game you want, if it's not here, then I haven't played or managed to make that game run yet.
