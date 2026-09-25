@@ -31,6 +31,7 @@ Use Ctrl + F to search for the game you want, if it's not here, then I haven't p
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
 - <img src="https://cdn2.steamgriddb.com/icon/713fd63d76c8a57b16fc433fb4ae718a/32/1024x1024.png" width="20" height="20"> [Ghost of Tsushima](games/ghostoftsushima.md)
 - <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Clear Sky](games/stalkerclearsky.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/7fa3a91247043f0106fcf96d2ca02c6e.png" width="20" height="20"> [Twisted Tower](games/twistedtower.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/30999ce1f0a35aeff9a456e4487f9924.png" width="20" height="20"> [Project Zomboid](games/projectzomboid.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/22de0bf85202126667cb67ede1da08b7.png" width="20" height="20"> [Roblox](games/roblox.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/048617ceb68b40a45847078db347ba59.png" width="20" height="20"> [Zenless Zone Zero](games/zenlesszonezero.md)
