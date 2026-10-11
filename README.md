@@ -35,3 +35,5 @@ Use Ctrl + F to search for the game you want, if it's not here, then I haven't p
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/30999ce1f0a35aeff9a456e4487f9924.png" width="20" height="20"> [Project Zomboid](games/projectzomboid.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/22de0bf85202126667cb67ede1da08b7.png" width="20" height="20"> [Roblox](games/roblox.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/048617ceb68b40a45847078db347ba59.png" width="20" height="20"> [Zenless Zone Zero](games/zenlesszonezero.md)
+- <img src="https://cdn2.steamgriddb.com/icon/c3fd7907dc594c388f475cb51562427c/32/256x256.png" width="20" height="20"> [Remnant: From The Ashes](games/remnantfromtheashes.md)
+- <img src="https://cdn2.steamgriddb.com/icon/0bdfd2a67deb53a40acbc39554d5a40c/32/256x256.png" width="20" height="20"> [Yakuza 3 Remastered](games/yakuza3remastered.md)
