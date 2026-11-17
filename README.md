@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Rammaken/rammaken-linux-gaming-guide/refs/heads/main/ramlinux_icon.webp" width="128" height="128"></p>
 
-# <p align="center">Rammaken's Linux Gaming Guide</p>
+# Rammaken's Linux Gaming Guide
 Welcome to my personal guide for Linux gaming, I write down fixes and workarounds for specific games that I figured out based on my tinkering experience so you don't have to.
 
 I'll update this list over time with information on the process I followed and confirmed that makes the games run on Linux.
@@ -26,11 +26,15 @@ I'm aware that the solutions offered on this guide may not 100% work for everybo
 # Games list
 Use Ctrl + F to search for the game you want, if it's not here, then I haven't played or managed to make that game run yet.
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/eafd47a145d67a244ac72fa0617c3224.png" width="20" height="20"> [Deadlock](games/deadlock.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/b1a59b315fc9a3002ce38bbe070ec3f5.png" width="20" height="20"> [Dark Souls Remastered](games/darksoulsremastered.md)
 - <img src="https://cdn2.steamgriddb.com/icon/723c26b3460897d11db04474db0e0501/32/256x256.png" width="20" height="20"> [Deus Ex: Mankind Divided](games/deusexmankinddivided.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/9b04d152845ec0a378394003c96da594.png" width="20" height="20"> [Counter-Strike](games/counterstrike.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
 - <img src="https://cdn2.steamgriddb.com/icon/713fd63d76c8a57b16fc433fb4ae718a/32/1024x1024.png" width="20" height="20"> [Ghost of Tsushima](games/ghostoftsushima.md)
 - <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Clear Sky](games/stalkerclearsky.md)
+- <img src="https://cdn2.steamgriddb.com/icon/321cf86b4c9f5ddd04881a44067c2a5a/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Call of Pripyat](games/stalkercallofpripyat.md)
+- <img src="https://cdn2.steamgriddb.com/icon_thumb/9191d7862c1dae7410fff400cc320cfa.png" width="20" height="20"> [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/stalker2.md)
+- <img src="https://cdn2.steamgriddb.com/icon/a20cab171bfed09f88940ead90462022/32/256x256.png" width="20" height="20"> [Sons of the Forest](games/sonsoftheforest.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/7fa3a91247043f0106fcf96d2ca02c6e.png" width="20" height="20"> [Twisted Tower](games/twistedtower.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/30999ce1f0a35aeff9a456e4487f9924.png" width="20" height="20"> [Project Zomboid](games/projectzomboid.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/22de0bf85202126667cb67ede1da08b7.png" width="20" height="20"> [Roblox](games/roblox.md)
