@@ -31,6 +31,7 @@ Use Ctrl + F to search for the game you want, if it's not here, then I haven't p
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/9b04d152845ec0a378394003c96da594.png" width="20" height="20"> [Counter-Strike](games/counterstrike.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/85051e0cbbe6f85cbed8c6fded69c713.png" width="20" height="20"> [Ghost Recon Breakpoint](games/ghostreconbreakpoint.md)
 - <img src="https://cdn2.steamgriddb.com/icon/713fd63d76c8a57b16fc433fb4ae718a/32/1024x1024.png" width="20" height="20"> [Ghost of Tsushima](games/ghostoftsushima.md)
+- <img src="https://cdn2.steamgriddb.com/icon/528c64d02664d3c3ea12bd058cdd9d91/32/256x256.png" width="20" height="20"> [inZOI](games/inzoi.md)
 - <img src="https://cdn2.steamgriddb.com/icon/22b1cd168ec628442b3d4dc00fca434b/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Clear Sky](games/stalkerclearsky.md)
 - <img src="https://cdn2.steamgriddb.com/icon/321cf86b4c9f5ddd04881a44067c2a5a/32/256x256.png" width="20" height="20"> [S.T.A.L.K.E.R.: Call of Pripyat](games/stalkercallofpripyat.md)
 - <img src="https://cdn2.steamgriddb.com/icon_thumb/9191d7862c1dae7410fff400cc320cfa.png" width="20" height="20"> [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/stalker2.md)
